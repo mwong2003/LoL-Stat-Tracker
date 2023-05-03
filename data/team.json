@@ -1,0 +1,65 @@
+{"Teams": [{
+    "Team Name": "FNC",
+    "Players": [
+        {
+            "Username": "1",
+            "Game stats": [{
+                "CS": 1,
+                "Gold": 1,
+                "Assists": 1,
+                "Kills": 1,
+                "Deaths": 1,
+                "Damage": 1,
+                "Game time": "10:00"
+            }]
+        },
+        {
+            "Username": "1",
+            "Game stats": [{
+                "CS": 1,
+                "Gold": 1,
+                "Assists": 1,
+                "Kills": 1,
+                "Deaths": 1,
+                "Damage": 1,
+                "Game time": "10:00"
+            }]
+        },
+        {
+            "Username": "1",
+            "Game stats": [{
+                "CS": 1,
+                "Gold": 1,
+                "Assists": 1,
+                "Kills": 1,
+                "Deaths": 1,
+                "Damage": 1,
+                "Game time": "10:00"
+            }]
+        },
+        {
+            "Username": "1",
+            "Game stats": [{
+                "CS": 1,
+                "Gold": 1,
+                "Assists": 1,
+                "Kills": 1,
+                "Deaths": 1,
+                "Damage": 1,
+                "Game time": "10:00"
+            }]
+        },
+        {
+            "Username": "1",
+            "Game stats": [{
+                "CS": 1,
+                "Gold": 1,
+                "Assists": 1,
+                "Kills": 1,
+                "Deaths": 1,
+                "Damage": 1,
+                "Game time": "10:00"
+            }]
+        }
+    ]
+}]}

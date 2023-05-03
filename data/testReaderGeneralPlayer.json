@@ -1,0 +1,38 @@
+{"Players": [
+  {
+    "Username": "A",
+    "Game stats": [{
+      "CS": 5,
+      "Gold": 5,
+      "Assists": 5,
+      "Kills": 5,
+      "Deaths": 5,
+      "Damage": 5,
+      "Game time": "10:00"
+    }]
+  },
+  {
+    "Username": "B",
+    "Game stats": [{
+      "CS": 4,
+      "Gold": 4,
+      "Assists": 4,
+      "Kills": 4,
+      "Deaths": 4,
+      "Damage": 4,
+      "Game time": "10:00"
+    }]
+  },
+  {
+    "Username": "C",
+    "Game stats": [{
+      "CS": 3,
+      "Gold": 3,
+      "Assists": 3,
+      "Kills": 3,
+      "Deaths": 3,
+      "Damage": 3,
+      "Game time": "10:00"
+    }]
+  }]
+}

@@ -1,0 +1,12 @@
+{"Players": [{
+    "Username": "Player 1",
+    "Game stats": [{
+        "CS": 286,
+        "Gold": 15180,
+        "Assists": 7,
+        "Kills": 5,
+        "Deaths": 1,
+        "Damage": 26926,
+        "Game time": "29:03"
+    }]
+}]}

@@ -1,0 +1,133 @@
+{"Players": [
+    {
+        "Username": "Zeus",
+        "Game stats": [{
+            "CS": 5,
+            "Gold": 5,
+            "Assists": 5,
+            "Kills": 5,
+            "Deaths": 5,
+            "Damage": 5,
+            "Game time": "5"
+        }]
+    },
+    {
+        "Username": "Oner",
+        "Game stats": [{
+            "CS": 4,
+            "Gold": 4,
+            "Assists": 4,
+            "Kills": 4,
+            "Deaths": 4,
+            "Damage": 4,
+            "Game time": "4"
+        }]
+    },
+    {
+        "Username": "Faker",
+        "Game stats": [{
+            "CS": 3,
+            "Gold": 3,
+            "Assists": 3,
+            "Kills": 3,
+            "Deaths": 3,
+            "Damage": 3,
+            "Game time": "3"
+        }]
+    },
+    {
+        "Username": "Guma",
+        "Game stats": [{
+            "CS": 2,
+            "Gold": 2,
+            "Assists": 2,
+            "Kills": 2,
+            "Deaths": 2,
+            "Damage": 2,
+            "Game time": "2"
+        }]
+    },
+    {
+        "Username": "Keria",
+        "Game stats": [{
+            "CS": 1,
+            "Gold": 1,
+            "Assists": 1,
+            "Kills": 1,
+            "Deaths": 1,
+            "Damage": 1,
+            "Game time": "1"
+        }]
+    },
+    {
+        "Username": "Upset",
+        "Game stats": [
+            {
+                "CS": 6,
+                "Gold": 6,
+                "Assists": 6,
+                "Kills": 6,
+                "Deaths": 6,
+                "Damage": 6,
+                "Game time": "6"
+            },
+            {
+                "CS": 6,
+                "Gold": 6,
+                "Assists": 6,
+                "Kills": 6,
+                "Deaths": 6,
+                "Damage": 6,
+                "Game time": "6"
+            },
+            {
+                "CS": 6,
+                "Gold": 6,
+                "Assists": 6,
+                "Kills": 6,
+                "Deaths": 6,
+                "Damage": 6,
+                "Game time": "6"
+            },
+            {
+                "CS": 6,
+                "Gold": 6,
+                "Assists": 6,
+                "Kills": 6,
+                "Deaths": 6,
+                "Damage": 6,
+                "Game time": "6"
+            },
+            {
+                "CS": 6,
+                "Gold": 6,
+                "Assists": 6,
+                "Kills": 6,
+                "Deaths": 6,
+                "Damage": 6,
+                "Game time": "6"
+            },
+            {
+                "CS": 6,
+                "Gold": 6,
+                "Assists": 6,
+                "Kills": 6,
+                "Deaths": 6,
+                "Damage": 6,
+                "Game time": "6"
+            }
+        ]
+    },
+    {
+        "Username": "Hyli",
+        "Game stats": [{
+            "CS": 1,
+            "Gold": 1,
+            "Assists": 1,
+            "Kills": 1,
+            "Deaths": 1,
+            "Damage": 1,
+            "Game time": "1"
+        }]
+    }
+]}

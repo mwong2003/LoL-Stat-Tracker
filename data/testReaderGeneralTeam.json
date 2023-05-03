@@ -1,0 +1,79 @@
+{
+  "Teams": [
+    {
+      "Team Name": "Cloud9",
+      "Players": [
+        {
+          "Username": "Fudge",
+          "Game stats": [
+            {
+              "CS": 5,
+              "Gold": 5,
+              "Assists": 5,
+              "Kills": 5,
+              "Deaths": 5,
+              "Damage": 5,
+              "Game time": "10:00"
+            }
+          ]
+        },
+        {
+          "Username": "Blaber",
+          "Game stats": [
+            {
+              "CS": 4,
+              "Gold": 4,
+              "Assists": 4,
+              "Kills": 4,
+              "Deaths": 4,
+              "Damage": 4,
+              "Game time": "10:00"
+            }
+          ]
+        },
+        {
+          "Username": "Jensen",
+          "Game stats": [
+            {
+              "CS": 3,
+              "Gold": 3,
+              "Assists": 3,
+              "Kills": 3,
+              "Deaths": 3,
+              "Damage": 3,
+              "Game time": "10:00"
+            }
+          ]
+        },
+        {
+          "Username": "Berserker",
+          "Game stats": [
+            {
+              "CS": 2,
+              "Gold": 2,
+              "Assists": 2,
+              "Kills": 2,
+              "Deaths": 2,
+              "Damage": 2,
+              "Game time": "10:00"
+            }
+          ]
+        },
+        {
+          "Username": "Zven",
+          "Game stats": [
+            {
+              "CS": 1,
+              "Gold": 1,
+              "Assists": 1,
+              "Kills": 1,
+              "Deaths": 1,
+              "Damage": 1,
+              "Game time": "10:00"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
